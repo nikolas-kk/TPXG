@@ -1,0 +1,7 @@
+#useDynLib(fsn, .registration = TRUE)
+
+import("Rfast2")
+importFrom("stats", rpois, rexp, rgamma, model.matrix, optim, rnorm)
+
+exportPattern("^[[:alpha:]]+")
+exportPattern("^[^\\.]")
