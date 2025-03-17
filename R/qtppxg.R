@@ -8,7 +8,6 @@ qtppxg <- function(p, alpha = 1, theta = 1, tol = 1e-5) {
   c3 <- alpha * theta
   c4 <- c3 * theta
   c5 <- 2 * theta * c1^2 + 2 * alpha
-  ## This is fucking awesome
   repeat {
     c6 <- (x0^2 + 5 * x0 + 6) * c4 + 2 * (x0 + 3) * c3 + c5
     c7 <- c1^(-x0 - 3)

@@ -6,7 +6,6 @@ qtpxg <- function(p, alpha = 1, theta = 1, tol = 1e-5){
   z2 <- alpha * theta
   z3 <- z2 * theta / 2
   z4 <- theta^2
-  ## This is fucking awesome
   repeat {
     k <- exp(-theta * x0)
     g <- z1 - (den + z2 * x0 + z3 * x0^2) / den * k
