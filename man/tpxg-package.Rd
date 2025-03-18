@@ -13,7 +13,7 @@ quantile functions, probability density and mass functions, cumulative distribut
 Package: \tab tpxg\cr
 Type: \tab Package\cr
 Version: \tab 1.0\cr
-Date: \tab 2025-03-12\cr
+Date: \tab 2025-03-18\cr
 License: \tab GPL-2\cr
 }
 }
@@ -26,9 +26,9 @@ Nikolaos Kontemeniotis \email{kontemeniotisn@gmail.com}.
 }
 
 \references{
-"Wani, M. A., Ahmad, P. B., Para, B. A. and Elah, N. (2023). A new regression model for count data with applications to health care data. International Journal of Data Science and Analytics."
+Wani, M. A., Ahmad, P. B., Para, B. A. and Elah, N. (2023). A new regression model for count data with applications to health care data. International Journal of Data Science and Analytics.
 
-"Sen, S., Chandra, N. and Maiti, S. S. (2018). On properties and applications of a two-parameter XGamma distribution. Journal of Statistical Theory and Applications, 17(4): 674--685."
+Sen, S., Chandra, N. and Maiti, S. S. (2018). On properties and applications of a two-parameter XGamma distribution. Journal of Statistical Theory and Applications, 17(4): 674--685.
 }
 
 

@@ -2,7 +2,7 @@ Package: TPXG
 Type: Package
 Title: Two Parameter Xgamma & Poisson Xgamma: Regression & Distribution Functions
 Version: 1.0
-Date: 2025-03-12
+Date: 2025-03-18
 Authors@R: c( person( "Nikolaos", "Kontemeniotis", role = c("aut", "cre"), email = "kontemeniotisn@gmail.com" ),
               person("Michail", "Tsagris", role = "aut", email = "mtsagris@uoc.gr") )
 Author: Nikolaos Kontemeniotis [aut, cre], Michail Tsagris [aut] 
