@@ -17,3 +17,4 @@ qtpxg <- function(p, alpha = 1, theta = 1, tol = 1e-5){
   }
   x0
 }
+
